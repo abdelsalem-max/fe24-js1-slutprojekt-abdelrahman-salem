@@ -1,0 +1,4 @@
+Slutprojekt for termin 1 av Javascript 2024.
+Inom detta projekt så ska man anvånda en api för att kunna visa upp och söka efter filmer och personer.
+Sökningen av filmer eller personer ska visa dess namn, datum och beskrivnig av filmen.
+Man ska också använda sig av moduler och en biblotek för att visa man är kunnig inom området.
